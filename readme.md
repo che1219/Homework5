@@ -11,6 +11,7 @@ Picture Canvas is an app that allows users to take iamge and draw on it.
 - [x]After finishing one picture, the user can take another picture and edit it again 10%
 - [x]Bug free 10%
 - [x]Submission follows the guidelines, and README file is complete 10%
+
 Bonus points:
 - [ ]Animated icons 5%
 - [ ]Save to gallery 5%
