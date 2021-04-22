@@ -21,7 +21,10 @@ Bonus points:
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://i.imgur.com/OlTcq52.gif" width=250><br>
+<img src="https://i.imgur.com/8ZKYtvv.gif" width=250><br>
+<img src="https://i.imgur.com/aVI4Gj3.gif" width=250><br>
+<img src="https://i.imgur.com/QwvKS1V.gif" width=250><br>
 
 ### Notes
 Double tap will add star.
